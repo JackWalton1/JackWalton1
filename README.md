@@ -1,0 +1,4 @@
+- 🤙🏻 Hi, I’m @JackWalton1
+- 🧐 I’m interested in Cryptography, Virtual machines, Algorithmic problem solving
+- 🌱 I’m currently learning Linux, I'm familiar with Python, Java, C, and now learning Solidity
+- 🎉 I’m looking to problem solve with other people new to the software scene
