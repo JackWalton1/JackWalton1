@@ -1,4 +1,4 @@
 - 🤙🏻 Hi, I’m @JackWalton1
 - 🧐 I’m interested in Cryptography, Virtual machines, Machine Learning, and hope to work on self-driving software one day!
 - 🌱 I’m currently learning Linux, I'm proficient with Python, Java, C, and am working on C++.
-- 🎉 I’m looking to problem solve with other people new to the software scene
+- 🎉 I’m looking to problem solve with other people new to the software scene, and am always open to learning from other's who have more experience.
