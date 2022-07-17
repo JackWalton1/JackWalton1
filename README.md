@@ -1,4 +1,4 @@
 - 🤙🏻 Hi, I’m @JackWalton1
-- 🧐 I’m interested in Cyber Security, Virtual machines, Machine Learning, and hope to work on self-driving software one day!
+- 🧐 I’m interested in Cyber Security, Virtual machines, Machine Learning, and hope to work on self-driving software and/or cybernetics one day!
 - 🌱 I’m currently learning on Linux and MacOS, I'm proficient with Python, Java, and C.
 - 🎉 I’m looking to problem solve with other people new to the software scene, and am always open to learning from others who have more experience.
