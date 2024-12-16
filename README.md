@@ -1,4 +1,4 @@
 - 🤙🏻 Hi, I’m @JackWalton1
-- 🧐 I’m interested in Cyber Security, Machine Learning, Fullstack dev and hope to work on self-driving software and/or cybernetics one day!
-- 🌱 I’m currently improving my skills in networking, performance, reliability, and scalability (And LeetCode of course)
+- 🧐 I’m interested in Fullstack dev, DevSecOps/SRE, and Machine Learning
+- 🌱 I’m currently improving my skills in IaC, IaaS, and cloud. I pride myself in creating & maintaining performant, reliable, and scalabile systems
 - 🎉 I’m looking to problem solve with other new grads, and am always open to learning from others who have more experience.
